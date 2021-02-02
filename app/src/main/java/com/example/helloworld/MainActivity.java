@@ -10,7 +10,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+   // I added comment to text push
     Button b;
     EditText E;
     TextView v ;
